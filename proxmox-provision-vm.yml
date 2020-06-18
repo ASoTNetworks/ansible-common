@@ -1,0 +1,4 @@
+---
+- hosts: localhost
+  roles:
+    - proxmox-provision-vm
